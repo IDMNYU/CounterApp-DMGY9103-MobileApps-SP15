@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 tanookilabs. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "CounterViewController.h"
 
-@interface ViewController ()
+@interface CounterViewController ()
 
 @end
 
-@implementation ViewController
+@implementation CounterViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
